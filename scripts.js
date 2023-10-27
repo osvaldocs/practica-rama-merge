@@ -13,3 +13,7 @@ function agregarALaPantalla(value) {
     document.getElementById('pantalla').value = '';
   }
 
+function deshacer() {
+  consdagsdfag
+  document.getElementById('pantalla').value = valorPantalla.slice(0,-1)
+}g
